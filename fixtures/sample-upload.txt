@@ -1,0 +1,3 @@
+This is a sample upload fixture used by the file_upload.spec.ts test.
+It verifies that Playwright can attach a file to a native file input
+and that the uploaded filename is reflected back by the application.
